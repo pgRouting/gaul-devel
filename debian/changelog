@@ -1,3 +1,11 @@
+gaul-devel (0.1850-0-ppa3) lucid; urgency=low
+
+  * Moved README.debian back from original source
+  * Renamed manpage.1.ex
+  * Switch to dpkg-source 3.0 (quilt) format
+
+ -- Daniel Kastl <daniel@georepublic.de>  Wed, 07 Apr 2010 16:29:57 +0900
+
 gaul-devel (0.1850-0-ppa2) lucid; urgency=low
 
   * Added watch file
