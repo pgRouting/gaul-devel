@@ -1,0 +1,32 @@
+gaul-devel (0.1850-0-ppa2) lucid; urgency=low
+
+  * Added watch file
+
+ -- Daniel Kastl <daniel@georepublic.de>  Mon, 05 Apr 2010 20:06:47 +0900
+
+gaul-devel (0.1850-0-ppa1) lucid; urgency=low
+
+  * Initial release for Ubuntu PPA based on version 0.1850-0
+  * Removed debian/files
+  * Updated debian/copyright according to standard template format
+  * Updated debian/control to latest Standards-Version: 3.8.4 and added Homepage info
+  * Replaced debian/rules with standard rules file
+  * Added compile flag "--enable-slang=no" to ./configure  
+
+ -- Daniel Kastl <daniel@georepublic.de>  Mon, 05 Apr 2010 19:23:17 +0900
+
+gaul-devel (0.1846-0) unstable; urgency=low
+
+  * Updated release.
+
+ -- Stewart Adcock <stewartadcock@usf-cf-alpha-linux-1.cf.sourceforge.net>  Wed, 27 Aug 2003 17:16:10 -0700
+
+gaul-devel (0.1844-1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Stewart Adcock <gaul@linux-domain.com>  Wed,  4 Jun 2003 09:36:58 -0700
+
+Local variables:
+mode: debian-changelog
+End:
